@@ -1,0 +1,92 @@
+[
+    {
+        "Id": 1,
+        "title": "モンキー・D・ルフィ（ルフィ太郎）",
+        "Img": "https://tamashii.jp/special/onepiece/wanokuni/img/photo/product01_photo01.jpg",
+        "format": "約140mm本体・専用台座一式",
+        "Brand": "フィギュアーツZERO",
+        "material": "ABS・PVC",
+        "price": 3850,
+        "scheduled": "2020年11月発売予定"
+    },
+    {
+        "Id": 2,
+        "title": "トニートニー・チョッパー（チョパえもん）",
+        "Img": "https://tamashii.jp/special/onepiece/wanokuni/img/photo/product02_photo01.jpg",
+        "format": "約70mm本体・専用台座一式",
+        "Brand": "フィギュアーツZERO",
+        "material": "ABS・PVC",
+        "price": 2750,
+        "scheduled": "2020年12月発売予定"
+    },
+    {
+        "Id": 3,
+        "title": "ウソップ（ウソ八）",
+        "Img": "https://tamashii.jp/special/onepiece/wanokuni/img/photo/product03_photo01.jpg",
+        "format": "約120mm本体・専用台座一式・ウソップ用交換用表情パーツ・ルフィ用交換用表情パーツ・チョッパー用交換用表情パーツ",
+        "Brand": "フィギュアーツZERO",
+        "material": "ABS・PVC",
+        "price": 4950,
+        "scheduled": "2020年11月発売予定"
+    },
+    {
+        "Id": 4,
+        "title": "ロロノア・ゾロ（ゾロ十郎）",
+        "Img": "https://tamashii.jp/special/onepiece/wanokuni/img/photo/product04_photo01.jpg",
+        "format": "約110mm本体・専用台座一式",
+        "Brand": "フィギュアーツZERO",
+        "material": "ABS・PVC",
+        "price": 4950,
+        "scheduled": "2021年1月発売予定"
+    },
+    {
+        "Id": 5,
+        "title": "サンジ（サン五郎）",
+        "Img": "https://tamashii.jp/special/onepiece/wanokuni/img/photo/product05_photo01.jpg",
+        "format": "約140mm本体・専用台座一式・サンジ用交換用表情パーツ・ゾロ用交換用表情パーツ",
+        "Brand": "フィギュアーツZERO",
+        "material": "ABS・PVC",
+        "price": 4950,
+        "scheduled": "2021年1月発売予定"
+    },
+    {
+        "Id": 6,
+        "title": "ブルック（ホネ吉）",
+        "Img": "https://tamashii.jp/special/onepiece/wanokuni/img/product067_img01.png",
+        "format": "約230mm本体・専用台座一式・お玉・ブルック用交換用表情パーツ",
+        "Brand": "フィギュアーツZERO",
+        "material": "ABS・PVC",
+        "price": 6600,
+        "scheduled": "2021年1月発売予定"
+    },
+    {
+        "Id": 7,
+        "title": "ニコ・ロビン（おロビ）",
+        "Img": "https://tamashii.jp/special/onepiece/wanokuni/img/photo/product08_photo01.jpg",
+        "format": "約160mm本体・専用台座一式",
+        "Brand": "フィギュアーツZERO",
+        "material": "ABS・PVC",
+        "price": 4950,
+        "scheduled": "2021年2月発売予定"
+    },
+    {
+        "Id": 8,
+        "title": "ナミ（おナミ）",
+        "Img": "https://tamashii.jp/special/onepiece/wanokuni/img/photo/product09_photo01.jpg",
+        "format": "約140mm本体・専用台座一式・ナミ用交換用表情パーツ・お玉用交換用表情パーツ",
+        "Brand": "フィギュアーツZERO",
+        "material": "ABS・PVC",
+        "price": 4950,
+        "scheduled": "2021年2月発売予定"
+    },
+    {
+        "Id": 9,
+        "title": "フランキー（フラの介）",
+        "Img": "https://tamashii.jp/special/onepiece/wanokuni/img/photo/product10_photo01.jpg",
+        "format": "約220mm本体・のこぎり・フランキー用交換用顔パーツ・ロビン用交換用顔パーツ・専用台座一式",
+        "Brand": "フィギュアーツZERO",
+        "material": "ABS・PVC",
+        "price": 6600,
+        "scheduled": "2021年2月発売予定"
+    }
+]
