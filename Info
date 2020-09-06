@@ -1,0 +1,46 @@
+[
+    {
+        "Passport_name":"Wu_Chun_Wei",
+        "English_name":"Sam.w",
+        "Birth":"1986/03/06",
+        "Sex":"Male",
+        "Marital_status":"Married",
+        "Nationality":"Taiwan",
+        "Email_Address":"ah0123246402@gmail.com",
+        "Mobile_Phone":"+886-903-866-727",
+        "Education":{
+            "Name Of School":"Far East University",
+            "Major":"Information Engineering"
+                    },
+        "Experience_1":{
+            "Company":"Intech KF事業部",
+            "Position":"Phone & online Customer service",
+            "Location":"Makati RCBC",
+            "Period":"2018/05~2020/04",
+            "duty":"推薦及提供最新活動優惠說明，最新活動電話主動銷售邀約及推廣",
+            "resign_factor":"另有人生規劃"
+        },
+        "Experience_2": {
+            "Company": "GB2BC",
+            "Position": "Phone | online Customer service",
+            "Location": "Makati PBCome",
+            "Period": "2020/04",
+            "duty": "推薦及提供最新活動優惠說明，最新活動邀約推廣",
+            "resign_factor":"薪資與預期不符"
+        },
+        "Experience_3": {
+            "Company": "Rechiwell",
+            "Position": "控盤組長",
+            "Location": "Makati PBCome",
+            "Period": "2020/04",
+            "duty": "製作公司部門營利報表，分為周、月報，主動分析及提出更多不通的遊戲玩法與上層部門討論",
+            "resign_factor":"公司撤資返回台灣"
+        },
+        "Communication":{
+            "LineID":"toriko1986",
+            "Wechat":"toriko1986",
+            "Whatsapp":"+886-903-833-727",
+            "Telegram": "+886-903-833-727"
+        }
+    }
+]
