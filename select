@@ -1,0 +1,81 @@
+[
+    {
+        "brandID":1,
+        "jpname":"バンダイ",
+        "cname":"萬代",
+        "class":"main",
+        "name": "BANDAI",
+        "product": {
+            "Product_Series1": "プラモデルを組み立てる",
+            "Product_Series2": "ガチャ人形",
+            "Product_Series3": "ヒーローのおもちゃ"
+        }
+    },
+    {
+        "brandID": 1.1,
+        "jpname":"プレミアムバンダイ",
+        "cname":"萬代限定",
+        "class": "subsidiary",
+        "name": "PREMIUM-BANDAI",
+        "product":{
+            "Product_Series1": "魂ネイションズ",
+            "Product_Series2": "ホビーオンラインショップ",
+            "Product_Series3": "ガンダムベースオンラインショップ",
+            "Product_Series4": "ガシャデパ"
+        }
+    },
+    {
+        "brandID": 1.2,
+        "jpname": "メガハウス",
+        "cname": "巨屋",
+        "class": "subsidiary",
+        "name": "Megahouse",
+        "product": {
+            "Product_Series1": "メガホビ　フィギュア・ホビ",
+            "Product_Series2": "メガトイ　おもちゃ",
+            "Product_Series3": "メガハウス通販サイト"
+        }
+    },
+    {
+        "brandID": 2,
+        "jpname":"Kotobukiya",
+        "cname":"壽屋",
+        "class": "main",
+        "name": "KOTOBUKIYA",
+        "product": {
+            "Product_Series1": "M.S.G モデリングサポートグッズ",
+            "Product_Series2": "プラモデルを組み立てる",
+            "Product_Series3": "PVC塗装済み完成品フィギュア"
+        }
+    },
+    {
+        "brandID": 3,
+        "jpname": "グッスマ",
+        "cname": "好微笑",
+        "class": "main",
+        "name": "GOOD SMILE",
+        "product":{
+            "Product_Series1": "スケールフィギュア" ,
+            "Product_Series2": "ねんどろいど" ,
+            "Product_Series3": "figma" ,
+            "Product_Series4": "プラモデルを組み立てる"
+        }
+    },
+    {
+        "brandID": 4,
+        "jpname": "トミカ",
+        "cname": "多美",
+        "class": "main",
+        "name": "Tomica",
+        "product": {
+            "Product_Series1": "トミカ",
+                "Series":{
+                    "Series1": "トミカ",
+                    "Series2": "ドリームトミカ",
+                    "Series3": "ディズニーモータース",
+                    "Series4": "ディズニートイ"
+                },
+            "Product_Series2": "ゾイド"
+        }
+    }
+]
