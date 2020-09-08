@@ -1,0 +1,147 @@
+[
+    {
+        "yearID": "昭和1期",
+        "release": "1971/04/03~1973/02/10(昭和46~48)",
+        "seriesID": 1,
+        "works": "仮面ライダー",
+        "rider_1": "仮面ライダー1号 ",
+        "character_1": "本郷猛",
+        "actor_1": "藤岡 弘",
+        "rider_2": "仮面ライダー2号 ",
+        "character_2": "一文字隼人 ",
+        "actor_2": "佐々木剛 弘",
+        "episodes":98
+    },
+    {
+        "yearID": "昭和1期",
+        "release": "1973/2/17~1973/2/9(昭和48~49)",
+        "seriesID": 2,
+        "works": "仮面ライダーV3",
+        "rider_1": "仮面ライダーV3 ",
+        "character_1": "風見志郎",
+        "actor_1": "宮内洋",
+        "rider_2": "ライダーマン",
+        "character_2": "結城丈二",
+        "actor_2": "山口暁",
+        "episodes": 52
+    },
+    {
+        "yearID": "昭和1期",
+        "release": "1974/2/16~1974/10/12(昭和49~49)",
+        "seriesID": 3,
+        "works": "仮面ライダーX",
+        "rider_1": "仮面ライダーX ",
+        "character_1": "神 敬介",
+        "actor_1": "速水亮",
+        "episodes": 35
+    },
+    {
+        "yearID": "昭和1期",
+        "release": "1974/10/19~1975/3/29(昭和49~50)",
+        "seriesID": 4,
+        "works": "仮面ライダーアマゾン",
+        "rider_1": "仮面ライダーアマゾン ",
+        "character_1": "アマゾン",
+        "actor_1": "岡崎徹",
+        "episodes": 24
+    },
+    {
+        "yearID": "昭和1期",
+        "release": "1975/4/5~1975/12/27(昭和50~50)",
+        "seriesID": 5,
+        "works": "仮面ライダーストロンガー",
+        "rider_1": "仮面ライダーストロンガー ",
+        "character_1": "城茂",
+        "actor_1": "荒木茂",
+        "rider_2": "電波人間タックル",
+        "character_2": "岬ユリ子",
+        "actor_2": "岡田京子",
+        "episodes": 39
+    },
+    {
+        "yearID": "昭和1期",
+        "release": "1979/10/5~1980/10/10(昭和54~55)",
+        "seriesID": 6,
+        "works": "仮面ライダースカイライダー",
+        "rider_1": "スカイライダー ",
+        "character_1": "筑波 洋",
+        "actor_1": "村上弘明",
+        "episodes": 54
+    },
+    {
+        "yearID": "昭和2期",
+        "release": "1980/10/17~1981/9/26(昭和55~56)",
+        "seriesID": 7,
+        "works": "仮面ライダースーパー 1",
+        "rider_1": "仮面ライダースーパー 1 ",
+        "character_1": "沖 一也",
+        "actor_1": "高杉俊价",
+        "episodes": 48
+    },
+    {
+        "yearID": "昭和2期",
+        "release": "1982~1984(昭和57~59)",
+        "seriesID": 8,
+        "works": "仮面ライダーZX",
+        "rider_1": "仮面ライダーZX",
+        "character_1": "村雨 良",
+        "actor_1": "菅田俊",
+        "episodes": "-"
+    },
+    {
+        "yearID": "昭和3期",
+        "release": "1987/10/4~1988/10/9(昭和62~63)",
+        "seriesID": 9,
+        "works": "仮面ライダーBLACK",
+        "rider_1": "仮面ライダーBLACK",
+        "character_1": "南光太郎",
+        "actor_1": "倉田てつを",
+        "rider_2": "シャドウムーン",
+        "character_2": "秋月信彦",
+        "actor_2": "堀内孝人",
+        "episodes": 51
+    },
+    {
+        "yearID": "昭和3期",
+        "release": "1988/10/23~1989/9/24(昭和63~平成元年)",
+        "seriesID": 10,
+        "works": "仮面ライダーBLACK RX",
+        "rider_1": ["仮面ライダーBLACK RX","ロボライダー","バイオライダー"],
+        "character_1": "南光太郎",
+        "actor_1": "倉田てつを",
+        "episodes": 51
+    },
+    {
+        "yearID": "昭和3期",
+        "release": "1992/2/20(平成4年)",
+        "seriesID": "SP1",
+        "works": "真・仮面ライダー 序章",
+        "rider_1": "仮面ライダーシン",
+        "character_1": "風祭真",
+        "actor_1": "石川功久",
+        "episodes": "1"
+    },
+    {
+        "yearID": "昭和3期",
+        "release": "1993/4/17(平成5年)",
+        "seriesID": "SP2",
+        "works": "仮面ライダーZO",
+        "rider_1": "仮面ライダーZO",
+        "character_1": "麻生勝",
+        "actor_1": "土門 廣",
+        "rider_2": "ドラス",
+        "character_2": "ドラス",
+        "actor_2": ["横山一敏","高岩成二"],
+        "episodes": "1"
+    },
+    {
+        "yearID": "昭和3期",
+        "release": "1994/4/16(平成6年)",
+        "seriesID": "SP3",
+        "works": "仮面ライダーJ",
+        "rider_1": "仮面ライダーJ",
+        "character_1": "瀬川耕司",
+        "actor_1": "望月祐多",
+        "episodes": "1"
+    }
+]
