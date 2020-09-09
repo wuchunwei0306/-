@@ -1,6 +1,6 @@
 [
     {
-        "yearID": "昭和1期",
+        "period": "昭和1期",
         "release": "1971/04/03~1973/02/10(昭和46~48)",
         "seriesID": 1,
         "works": "仮面ライダー",
@@ -13,7 +13,7 @@
         "episodes":98
     },
     {
-        "yearID": "昭和1期",
+        "period": "昭和1期",
         "release": "1973/2/17~1973/2/9(昭和48~49)",
         "seriesID": 2,
         "works": "仮面ライダーV3",
@@ -26,7 +26,7 @@
         "episodes": 52
     },
     {
-        "yearID": "昭和1期",
+        "period": "昭和1期",
         "release": "1974/2/16~1974/10/12(昭和49~49)",
         "seriesID": 3,
         "works": "仮面ライダーX",
@@ -36,7 +36,7 @@
         "episodes": 35
     },
     {
-        "yearID": "昭和1期",
+        "period": "昭和1期",
         "release": "1974/10/19~1975/3/29(昭和49~50)",
         "seriesID": 4,
         "works": "仮面ライダーアマゾン",
@@ -46,7 +46,7 @@
         "episodes": 24
     },
     {
-        "yearID": "昭和1期",
+        "period": "昭和1期",
         "release": "1975/4/5~1975/12/27(昭和50~50)",
         "seriesID": 5,
         "works": "仮面ライダーストロンガー",
@@ -59,7 +59,7 @@
         "episodes": 39
     },
     {
-        "yearID": "昭和1期",
+        "period": "昭和1期",
         "release": "1979/10/5~1980/10/10(昭和54~55)",
         "seriesID": 6,
         "works": "仮面ライダースカイライダー",
@@ -69,7 +69,7 @@
         "episodes": 54
     },
     {
-        "yearID": "昭和2期",
+        "period": "昭和2期",
         "release": "1980/10/17~1981/9/26(昭和55~56)",
         "seriesID": 7,
         "works": "仮面ライダースーパー 1",
@@ -79,7 +79,7 @@
         "episodes": 48
     },
     {
-        "yearID": "昭和2期",
+        "period": "昭和2期",
         "release": "1982~1984(昭和57~59)",
         "seriesID": 8,
         "works": "仮面ライダーZX",
@@ -89,7 +89,7 @@
         "episodes": "-"
     },
     {
-        "yearID": "昭和3期",
+        "period": "昭和3期",
         "release": "1987/10/4~1988/10/9(昭和62~63)",
         "seriesID": 9,
         "works": "仮面ライダーBLACK",
@@ -102,7 +102,7 @@
         "episodes": 51
     },
     {
-        "yearID": "昭和3期",
+        "period": "昭和3期",
         "release": "1988/10/23~1989/9/24(昭和63~平成元年)",
         "seriesID": 10,
         "works": "仮面ライダーBLACK RX",
@@ -112,7 +112,7 @@
         "episodes": 51
     },
     {
-        "yearID": "昭和3期",
+        "period": "昭和3期",
         "release": "1992/2/20(平成4年)",
         "seriesID": "SP1",
         "works": "真・仮面ライダー 序章",
@@ -122,7 +122,7 @@
         "episodes": "1"
     },
     {
-        "yearID": "昭和3期",
+        "period": "昭和3期",
         "release": "1993/4/17(平成5年)",
         "seriesID": "SP2",
         "works": "仮面ライダーZO",
@@ -135,7 +135,7 @@
         "episodes": "1"
     },
     {
-        "yearID": "昭和3期",
+        "period": "昭和3期",
         "release": "1994/4/16(平成6年)",
         "seriesID": "SP3",
         "works": "仮面ライダーJ",
