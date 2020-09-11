@@ -1,5 +1,6 @@
 [
-    {
+    {   
+        "key":1,
         "name":"ジータ",
         "img":"https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118882912_10214075092270895_8969758043035023182_n.jpg?_nc_cat=111&_nc_sid=a83260&_nc_ohc=V-2AgbsDsZQAX_7V91n&_nc_ht=scontent.frmq2-1.fna&oh=cf532b8bc1ceaade5615b2c159b93dea&oe=5F825B8F",
         "series":"普通",
@@ -14,6 +15,7 @@
         "societies":"???"
     },
     {
+        "key":2,
         "name": "ムイミ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119082902_10214075101151117_3706405351620264635_n.jpg?_nc_cat=103&_nc_sid=a83260&_nc_ohc=9Av7l39zhaYAX8HZZa2&_nc_ht=scontent.frmq2-2.fna&oh=755dd73ba565b5c55e68331eaf91d792&oe=5F808D31",
         "series": "普通",
