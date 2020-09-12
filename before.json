@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "position":"前衛",
+        "position": "前衛",
         "name": "ジータ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118882912_10214075092270895_8969758043035023182_n.jpg?_nc_cat=111&_nc_sid=a83260&_nc_ohc=V-2AgbsDsZQAX_7V91n&_nc_ht=scontent.frmq2-1.fna&oh=cf532b8bc1ceaade5615b2c159b93dea&oe=5F825B8F",
         "series": "普通",
@@ -499,7 +499,7 @@
         "id": 32,
         "position": "前衛",
         "name": "イノリ",
-        "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118910771_10214075094430949_938725493494646820_n.jpg?_nc_cat=104&_nc_sid=a83260&_nc_ohc=SQIaWB8ngYoAX-Ztkze&_nc_ht=scontent.frmq2-2.fna&oh=a1b9106a5ec2f3dedcf1a4e41d288d7c&oe=5F8357C0",
+        "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119030967_10214075090030839_7628192246579027292_n.jpg?_nc_cat=107&_nc_sid=a83260&_nc_ohc=7dg6V59Nc4gAX-9FqQ4&_nc_ht=scontent.frmq2-2.fna&oh=a65867124b1ff38a1d7a15df0f57d03c&oe=5F803D70",
         "series": "普通",
         "age": 13,
         "height&weight": "145cm/??kg",
@@ -960,7 +960,6 @@
         "societies": "悪魔偽王国軍"
     },
     {
-    
         "id": 61,
         "position": "中衛",
         "name": "アユミ",
