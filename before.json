@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "position":"前衛",
         "name": "ジータ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118882912_10214075092270895_8969758043035023182_n.jpg?_nc_cat=111&_nc_sid=a83260&_nc_ohc=V-2AgbsDsZQAX_7V91n&_nc_ht=scontent.frmq2-1.fna&oh=cf532b8bc1ceaade5615b2c159b93dea&oe=5F825B8F",
         "series": "普通",
@@ -16,6 +17,7 @@
     },
     {
         "id": 2,
+        "position": "前衛",
         "name": "ムイミ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119082902_10214075101151117_3706405351620264635_n.jpg?_nc_cat=103&_nc_sid=a83260&_nc_ohc=9Av7l39zhaYAX8HZZa2&_nc_ht=scontent.frmq2-2.fna&oh=755dd73ba565b5c55e68331eaf91d792&oe=5F808D31",
         "series": "普通",
@@ -31,6 +33,7 @@
     },
     {
         "id": 3,
+        "position": "前衛",
         "name": "クリスティーナ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119138104_10214075089550827_3129345896074772187_n.jpg?_nc_cat=110&_nc_sid=a83260&_nc_ohc=l1k3yjeSCv0AX8ru8NR&_nc_ht=scontent.frmq2-1.fna&oh=58c2d8dff4c0c292f9b9ce8d479dec7e&oe=5F81814C",
         "series": "普通",
@@ -46,6 +49,7 @@
     },
     {
         "id": 4,
+        "position": "前衛",
         "name": "クリス(クリスマス)",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118958365_10214075089630829_7826117515414039043_n.jpg?_nc_cat=109&_nc_sid=a83260&_nc_ohc=v__hgMC61osAX_vZqeU&_nc_ht=scontent.frmq2-2.fna&oh=e4facb095b2c2787bbe78caf1dfd13a4&oe=5F7FF782",
         "series": "クリスマス",
@@ -61,6 +65,7 @@
     },
     {
         "id": 5,
+        "position": "前衛",
         "name": "トモ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118963982_10214075094830959_4028700155408089040_n.jpg?_nc_cat=108&_nc_sid=a83260&_nc_ohc=t1FwQpn4wpwAX9sKu6-&_nc_ht=scontent.frmq2-1.fna&oh=de144951114315d8b97a7055f545c696&oe=5F8148F1",
         "series": "普通",
@@ -76,6 +81,7 @@
     },
     {
         "id": 6,
+        "position": "前衛",
         "name": "マツリ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119006623_10214075096751007_7085102446873343709_n.jpg?_nc_cat=104&_nc_sid=a83260&_nc_ohc=EMXFLQGbuecAX_VfQ0G&_nc_ht=scontent.frmq2-2.fna&oh=c87cf2e85f02a42a97c38e260f04d54e&oe=5F801638",
         "series": "普通",
@@ -91,6 +97,7 @@
     },
     {
         "id": 7,
+        "position": "前衛",
         "name": "水着ジュン",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119003447_10214075106351247_768611714589208027_n.jpg?_nc_cat=100&_nc_sid=a83260&_nc_ohc=LKxdz-D1_XwAX_HojIg&_nc_ht=scontent.frmq2-2.fna&oh=3094330146f482a2bbabd86d55037863&oe=5F82FA1B",
         "series": "水着",
@@ -106,6 +113,7 @@
     },
     {
         "id": 8,
+        "position": "前衛",
         "name": "ジュン",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119004561_10214075093390923_857725484751254506_n.jpg?_nc_cat=105&_nc_sid=a83260&_nc_ohc=nnfmpUZdfiIAX9cF9J3&_nc_ht=scontent.frmq2-1.fna&oh=6a6820c1ef9381ec3d25116c37f209a1&oe=5F80A2FA",
         "series": "普通",
@@ -121,6 +129,7 @@
     },
     {
         "id": 9,
+        "position": "前衛",
         "name": "水着ペコリーヌ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118864705_10214075107431274_3644849243961598936_n.jpg?_nc_cat=105&_nc_sid=a83260&_nc_ohc=PUMKyljXM8kAX_IStit&_nc_ht=scontent.frmq2-1.fna&oh=500e8759d59b2f4bbbf130685103dc5b&oe=5F81A464",
         "series": "水着",
@@ -136,6 +145,7 @@
     },
     {
         "id": 10,
+        "position": "前衛",
         "name": "正月コッコロ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119144460_10214075108351297_5916952568001648814_n.jpg?_nc_cat=100&_nc_sid=a83260&_nc_ohc=6FWwak0GqiwAX8LCZxP&_nc_ht=scontent.frmq2-2.fna&oh=b4ebffc68bfe06bb02ca21a00d0fa241&oe=5F830CBF",
         "series": "正月",
@@ -151,6 +161,7 @@
     },
     {
         "id": 11,
+        "position": "前衛",
         "name": "ペコリーヌ(プリンセス)",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118999113_10214075096471000_8275426390291778895_n.jpg?_nc_cat=107&_nc_sid=a83260&_nc_ohc=RI8tMQoUyA0AX8j2m3-&_nc_ht=scontent.frmq2-2.fna&oh=ab1e19216f439565720e2310e327a9d6&oe=5F834E2D",
         "series": "プリンセス",
@@ -166,6 +177,7 @@
     },
     {
         "id": 12,
+        "position": "前衛",
         "name": "ペコリーヌ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119139845_10214075096310996_3901044130700747120_n.jpg?_nc_cat=103&_nc_sid=a83260&_nc_ohc=rleIHxLzMdEAX_HRMij&_nc_ht=scontent.frmq2-2.fna&oh=56d308318d93adedb4b1a05fc9af90fa&oe=5F80E70E",
         "series": "普通",
@@ -181,6 +193,7 @@
     },
     {
         "id": 13,
+        "position": "前衛",
         "name": "イリヤ(クリスマス)",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118949678_10214075090910861_8600922768456685548_n.jpg?_nc_cat=102&_nc_sid=a83260&_nc_ohc=H8QXMYYQDzgAX_3Ivpo&_nc_ht=scontent.frmq2-1.fna&oh=e75e3ecd49d936a4bfebde7b6b7b5f61&oe=5F830035",
         "series": "クリスマス",
@@ -196,6 +209,7 @@
     },
     {
         "id": 14,
+        "position": "前衛",
         "name": "ミヤコ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118933492_10214075091390873_6973680628414876534_n.jpg?_nc_cat=100&_nc_sid=a83260&_nc_ohc=gRENpsLUa24AX-QxwIt&_nc_ht=scontent.frmq2-2.fna&oh=027ca8606dfde81769a8015fac67b8f1&oe=5F80546A",
         "series": "普通",
@@ -211,6 +225,7 @@
     },
     {
         "id": 15,
+        "position": "前衛",
         "name": "チエル",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119226968_10214075094070940_539498519609494385_n.jpg?_nc_cat=110&_nc_sid=a83260&_nc_ohc=M27FSJKeSbMAX8Ko2fC&_nc_ht=scontent.frmq2-1.fna&oh=f2fc6cad448966ca79c2400b1fec2881&oe=5F82EE31",
         "series": "普通",
@@ -226,6 +241,7 @@
     },
     {
         "id": 16,
+        "position": "前衛",
         "name": "ニノン(オーエド)",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119026540_10214075095270970_7133332265812057993_n.jpg?_nc_cat=111&_nc_sid=a83260&_nc_ohc=kqBfNaXR2M0AX9DEpBj&_nc_ht=scontent.frmq2-1.fna&oh=344e3409e4c1cf73e7d89fc2682a345b&oe=5F801099",
         "series": "オーエド",
@@ -241,6 +257,7 @@
     },
     {
         "id": 17,
+        "position": "前衛",
         "name": "クウカ(オーエド)",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119062758_10214075088910811_8638426868737874391_n.jpg?_nc_cat=111&_nc_sid=a83260&_nc_ohc=2vB98AXGtzMAX_-8aqN&_nc_ht=scontent.frmq2-1.fna&oh=9ca5b85444fa80e2df9fc0f69a1d8fc6&oe=5F810246",
         "series": "オーエド",
@@ -256,6 +273,7 @@
     },
     {
         "id": 18,
+        "position": "前衛",
         "name": "クウカ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118913137_10214075088710806_5579278185638683998_n.jpg?_nc_cat=110&_nc_sid=a83260&_nc_ohc=PVD_wE8NMN0AX9b0rLh&_nc_ht=scontent.frmq2-1.fna&oh=fb182ae90418f04abe61f1081083eb55&oe=5F839D6F",
         "series": "普通",
@@ -271,6 +289,7 @@
     },
     {
         "id": 19,
+        "position": "前衛",
         "name": "リマ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118977348_10214075103711181_1974806031226059591_n.jpg?_nc_cat=101&_nc_sid=a83260&_nc_ohc=T3y82qXeCRsAX84GzQs&_nc_ht=scontent.frmq2-2.fna&oh=fd4526ac46dfad0d757ce3cdc5d6f316&oe=5F81B1B5",
         "series": "クリスマス",
@@ -286,6 +305,7 @@
     },
     {
         "id": 20,
+        "position": "前衛",
         "name": "水着マコト",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118993491_10214075107471275_2763137533564615567_n.jpg?_nc_cat=101&_nc_sid=a83260&_nc_ohc=9u-xIheNWpkAX9mF2CM&_nc_ht=scontent.frmq2-2.fna&oh=8d86c33283696a1be607e0cea26b1e83&oe=5F815E48",
         "series": "水着",
@@ -301,6 +321,7 @@
     },
     {
         "id": 21,
+        "position": "前衛",
         "name": "マコト",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119085561_10214075096631004_6920885099978298276_n.jpg?_nc_cat=107&_nc_sid=a83260&_nc_ohc=tUjsiKukrOUAX9Q3cUV&_nc_ht=scontent.frmq2-2.fna&oh=b0bdc08eca18ad35d388e65ed4807c02&oe=5F8040F6",
         "series": "普通",
@@ -316,6 +337,7 @@
     },
     {
         "id": 22,
+        "position": "前衛",
         "name": "カオリ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119218891_10214075086590753_5243726702235793030_n.jpg?_nc_cat=109&_nc_sid=a83260&_nc_ohc=J5HL7rc059gAX_bLj1a&_nc_ht=scontent.frmq2-2.fna&oh=d36185200d8884ca850dc3c4856ec88a&oe=5F811170",
         "series": "普通",
@@ -331,6 +353,7 @@
     },
     {
         "id": 23,
+        "position": "前衛",
         "name": "ツムギ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118910771_10214075094430949_938725493494646820_n.jpg?_nc_cat=104&_nc_sid=a83260&_nc_ohc=SQIaWB8ngYoAX-Ztkze&_nc_ht=scontent.frmq2-2.fna&oh=a1b9106a5ec2f3dedcf1a4e41d288d7c&oe=5F8357C0",
         "series": "普通",
@@ -346,6 +369,7 @@
     },
     {
         "id": 24,
+        "position": "前衛",
         "name": "クルミ(クリスマス)",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118979645_10214075090510851_5580491960612412542_n.jpg?_nc_cat=108&_nc_sid=a83260&_nc_ohc=EY2g0nwgbroAX_PCo-s&_nc_ht=scontent.frmq2-1.fna&oh=cb197503c3d39bfe5534d357a6f41437&oe=5F7FE88E",
         "series": "クリスマス",
@@ -361,6 +385,7 @@
     },
     {
         "id": 25,
+        "position": "前衛",
         "name": "クルミ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118941288_10214075089870835_4019636048561838409_n.jpg?_nc_cat=110&_nc_sid=a83260&_nc_ohc=xiKjX0vyTpwAX8gStut&_nc_ht=scontent.frmq2-1.fna&oh=2cef9ce15b62c4505a8a029808d03116&oe=5F802BB4",
         "series": "普通",
@@ -376,6 +401,7 @@
     },
     {
         "id": 26,
+        "position": "前衛",
         "name": "アヤネ(クリスマス)",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118970889_10214075088070790_3272902334911335900_n.jpg?_nc_cat=105&_nc_sid=a83260&_nc_ohc=TGaH1tDqsWwAX-HEVFf&_nc_ht=scontent.frmq2-1.fna&oh=13e50ee9eea48fcadd21053eb866c947&oe=5F82FDBE",
         "series": "クリスマス",
@@ -391,6 +417,7 @@
     },
     {
         "id": 27,
+        "position": "前衛",
         "name": "アヤネ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118990916_10214080641409620_5568986097960300662_n.jpg?_nc_cat=103&_nc_sid=a83260&_nc_ohc=_5-U8UtBnewAX9OA5sx&_nc_ht=scontent.frmq2-2.fna&oh=98c34674335cc0e446c74c2278c3d096&oe=5F80F42A",
         "series": "普通",
@@ -406,6 +433,7 @@
     },
     {
         "id": 28,
+        "position": "前衛",
         "name": "レイ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119004176_10214075104871210_4589869296752818246_n.jpg?_nc_cat=100&_nc_sid=a83260&_nc_ohc=LhkRte_rX3AAX_wGHN6&_nc_ht=scontent.frmq2-2.fna&oh=d15f871651d1f2fc4416704e2f9b0551&oe=5F800FF3",
         "series": "普通",
@@ -421,6 +449,7 @@
     },
     {
         "id": 29,
+        "position": "前衛",
         "name": "正月レイ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119121116_10214075109191318_917131997415323700_n.jpg?_nc_cat=102&_nc_sid=a83260&_nc_ohc=ak7ZawQlSqMAX_42l8q&_nc_ht=scontent.frmq2-1.fna&oh=89a069da00fc3fb2023a7173c44be8c5&oe=5F8190F9",
         "series": "正月",
@@ -436,6 +465,7 @@
     },
     {
         "id": 30,
+        "position": "前衛",
         "name": "ヒヨリ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119134736_10214075096150992_740018194748632770_n.jpg?_nc_cat=106&_nc_sid=a83260&_nc_ohc=vBJ5Cb5p-2oAX_Ar4pN&_nc_ht=scontent.frmq2-1.fna&oh=5232053f818e03608f131c22569daaf6&oe=5F80A4F1",
         "series": "普通",
@@ -451,6 +481,7 @@
     },
     {
         "id": 31,
+        "position": "前衛",
         "name": "正月ヒヨリ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118940204_10214075108831309_6825042584991512231_n.jpg?_nc_cat=104&_nc_sid=a83260&_nc_ohc=ftjEVYRmo8QAX_JAK_p&_nc_ht=scontent.frmq2-2.fna&oh=5d29672d424d153c80ce2a8f0a8db7d4&oe=5F80F2ED",
         "series": "正月",
@@ -466,6 +497,7 @@
     },
     {
         "id": 32,
+        "position": "前衛",
         "name": "イノリ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118910771_10214075094430949_938725493494646820_n.jpg?_nc_cat=104&_nc_sid=a83260&_nc_ohc=SQIaWB8ngYoAX-Ztkze&_nc_ht=scontent.frmq2-2.fna&oh=a1b9106a5ec2f3dedcf1a4e41d288d7c&oe=5F8357C0",
         "series": "普通",
@@ -481,6 +513,7 @@
     },
     {
         "id": 33,
+        "position": "前衛",
         "name": "カヤ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118910771_10214075094430949_938725493494646820_n.jpg?_nc_cat=104&_nc_sid=a83260&_nc_ohc=SQIaWB8ngYoAX-Ztkze&_nc_ht=scontent.frmq2-2.fna&oh=a1b9106a5ec2f3dedcf1a4e41d288d7c&oe=5F8357C0",
         "series": "普通",
@@ -496,6 +529,7 @@
     },
     {
         "id": 34,
+        "position": "前衛",
         "name": "エリコ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119131927_10214075091790883_2509394796480602952_n.jpg?_nc_cat=110&_nc_sid=a83260&_nc_ohc=GG9a6sfx5HAAX-J_Dya&_nc_ht=scontent.frmq2-1.fna&oh=42791cbf35d97ad0df584893b3e9900c&oe=5F83ABAB",
         "series": "普通",
@@ -511,6 +545,7 @@
     },
     {
         "id": 35,
+        "position": "前衛",
         "name": "エリコ(バレンタイン)",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119118245_10214075091870885_6272517759650148278_n.jpg?_nc_cat=102&_nc_sid=a83260&_nc_ohc=7vJjbhIui2wAX_FFKib&_nc_ht=scontent.frmq2-1.fna&oh=519ff4c699ae6e47860b76eee1ac47a9&oe=5F821C9C",
         "series": "普通",
@@ -526,6 +561,7 @@
     },
     {
         "id": 36,
+        "position": "前衛",
         "name": "水着アンナ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119066408_10214075105351222_8500019897759387219_n.jpg?_nc_cat=106&_nc_sid=a83260&_nc_ohc=8k5Mag1P0kIAX-TeGC1&_nc_ht=scontent.frmq2-1.fna&oh=98b64c63533d897b59e8a78f2dfe699d&oe=5F808F42",
         "series": "普通",
@@ -541,6 +577,7 @@
     },
     {
         "id": 37,
+        "position": "前衛",
         "name": "ルカ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118942594_10214075104711206_1638205369103571455_n.jpg?_nc_cat=111&_nc_sid=a83260&_nc_ohc=rIAN4q7KamkAX-TzTNr&_nc_ht=scontent.frmq2-1.fna&oh=aa2342528da4395961792484329b0cff&oe=5F81FBDD",
         "series": "普通",
@@ -556,6 +593,7 @@
     },
     {
         "id": 38,
+        "position": "前衛",
         "name": "水着ルカ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119036087_10214075108191293_3919010901894124863_n.jpg?_nc_cat=107&_nc_sid=a83260&_nc_ohc=FwaCO-zH8g4AX_IOjsh&_nc_ht=scontent.frmq2-2.fna&oh=3083f4bc22a96dbe88978adde8662132&oe=5F81396A",
         "series": "水着",
@@ -571,6 +609,7 @@
     },
     {
         "id": 39,
+        "position": "前衛",
         "name": "アキノ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119059989_10214075087230769_5937937770727088462_n.jpg?_nc_cat=107&_nc_sid=a83260&_nc_ohc=UAG1rMn9HSEAX8CWvxT&_nc_ht=scontent.frmq2-2.fna&oh=c8280de8fcbf21a3fb61b53b9f19955a&oe=5F82875D",
         "series": "普通",
@@ -586,6 +625,7 @@
     },
     {
         "id": 40,
+        "position": "前衛",
         "name": "タマキ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119048507_10214075093870935_6886966393517783219_n.jpg?_nc_cat=107&_nc_sid=a83260&_nc_ohc=Ad0mSAQAn7IAX86d9JS&_nc_ht=scontent.frmq2-2.fna&oh=cd37fef97e899cb5f6b498f0b6f77155&oe=5F839949",
         "series": "普通",
@@ -601,6 +641,7 @@
     },
     {
         "id": 41,
+        "position": "前衛",
         "name": "水着タマキ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118934766_10214075106791258_4646998801210980859_n.jpg?_nc_cat=106&_nc_sid=a83260&_nc_ohc=uSBO9b8xkr4AX8JldX6&_nc_ht=scontent.frmq2-1.fna&oh=765fab0bffc4fae668aeb0907e336a56&oe=5F8280E1",
         "series": "水着",
@@ -613,5 +654,53 @@
         "arr": "物理攻撃",
         "birth": "03/01",
         "societies": "メルクリウス財団"
+    },
+    {
+        "id": 42,
+        "position": "前衛",
+        "name": "シズル",
+        "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119067507_10214075092710906_5614487358671463261_n.jpg?_nc_cat=102&_nc_sid=a83260&_nc_ohc=JRPV_ba8A38AX8s43po&_nc_ht=scontent.frmq2-1.fna&oh=1f5937951e9b25151f9f13f0c140dcd8&oe=5F817200",
+        "series": "普通",
+        "age": 18,
+        "height&weight": "168cm/54kg",
+        "mixlevel": "★★★",
+        "maxlevel": "★★★★★✯",
+        "type": "耐久支援型",
+        "voiceactor": "CV.生天目仁美",
+        "arr": "物理攻撃",
+        "birth": "10/24",
+        "societies": "ラビリンス"
+    },
+    {
+        "id": 43,
+        "position": "前衛",
+        "name": "ミソギ",
+        "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118953593_10214075098671055_501474017455499246_n.jpg?_nc_cat=108&_nc_sid=a83260&_nc_ohc=Ry8PgJHRIoAAX9rbGUJ&_nc_ht=scontent.frmq2-1.fna&oh=0161280d0d08258f284c89ed6d9bd314&oe=5F804639",
+        "series": "普通",
+        "age": 9,
+        "height&weight": "128cm/27kg",
+        "mixlevel": "★",
+        "maxlevel": "★★★★★",
+        "type": "支援型",
+        "voiceactor": "CV.諸星すみれ",
+        "arr": "物理攻撃",
+        "birth": "08/10",
+        "societies": "リトルリリカル"
+    },
+    {
+        "id": 44,
+        "position": "前衛",
+        "name": "ミソギ(ハロウィン)",
+        "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118837383_10214075098951062_6041317893676712321_n.jpg?_nc_cat=104&_nc_sid=a83260&_nc_ohc=4giwzni4cR8AX821UeA&_nc_ht=scontent.frmq2-2.fna&oh=083343a5f985d2bc0e3a2049305562fc&oe=5F80E31C",
+        "series": "水着",
+        "age": 9,
+        "height&weight": "128cm/27kg",
+        "mixlevel": "★",
+        "maxlevel": "★★★★★",
+        "type": "攻撃型",
+        "voiceactor": "CV.諸星すみれ",
+        "arr": "物理攻撃",
+        "birth": "08/10",
+        "societies": "リトルリリカル"
     }
 ]
