@@ -210,7 +210,7 @@
     {
         "id": 14,
         "position": "前衛",
-        "name": "クロエ",
+        "name": "ミヤコ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118933492_10214075091390873_6973680628414876534_n.jpg?_nc_cat=100&_nc_sid=a83260&_nc_ohc=gRENpsLUa24AX-QxwIt&_nc_ht=scontent.frmq2-2.fna&oh=027ca8606dfde81769a8015fac67b8f1&oe=5F80546A",
         "series": "普通",
         "age": 17,
@@ -720,25 +720,9 @@
         "societies": "ニュージェネレーション"
     },
     {
-        "id": 45,
+        "id": 46,
         "position": "前衛",
-        "name": "リン(デレマス)",
-        "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118956092_10214075100511101_4116220423996975943_n.jpg?_nc_cat=107&_nc_sid=a83260&_nc_ohc=tkfM3x4rDkAAX-81AZG&_nc_ht=scontent.frmq2-2.fna&oh=387504acedabfdc2ae888ba9375b6a4e&oe=5F804691",
-        "series": "普通",
-        "age": 14,
-        "height&weight": "130cm/32kg",
-        "mixlevel": "★★",
-        "maxlevel": "★★★★★",
-        "type": "耐久型",
-        "voiceactor": "CV.雨宮天",
-        "arr": "物理攻撃",
-        "birth": "01/23",
-        "societies": "悪魔偽王国軍"
-    },
-    {
-        "id": 45,
-        "position": "前衛",
-        "name": "リン(デレマス)",
+        "name": "ミヤコ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118956092_10214075100511101_4116220423996975943_n.jpg?_nc_cat=107&_nc_sid=a83260&_nc_ohc=tkfM3x4rDkAAX-81AZG&_nc_ht=scontent.frmq2-2.fna&oh=387504acedabfdc2ae888ba9375b6a4e&oe=5F804691",
         "series": "普通",
         "age": 14,
