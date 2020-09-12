@@ -1,6 +1,6 @@
 [
     {   
-        "key":1,
+        "id":1,
         "name":"ジータ",
         "img":"https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/118882912_10214075092270895_8969758043035023182_n.jpg?_nc_cat=111&_nc_sid=a83260&_nc_ohc=V-2AgbsDsZQAX_7V91n&_nc_ht=scontent.frmq2-1.fna&oh=cf532b8bc1ceaade5615b2c159b93dea&oe=5F825B8F",
         "series":"普通",
@@ -15,7 +15,7 @@
         "societies":"???"
     },
     {
-        "key":2,
+        "id":2,
         "name": "ムイミ",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/119082902_10214075101151117_3706405351620264635_n.jpg?_nc_cat=103&_nc_sid=a83260&_nc_ohc=9Av7l39zhaYAX8HZZa2&_nc_ht=scontent.frmq2-2.fna&oh=755dd73ba565b5c55e68331eaf91d792&oe=5F808D31",
         "series": "普通",
@@ -28,5 +28,35 @@
         "arr": "物理攻撃",
         "birth": "08/11",
         "societies": "???"
+    },
+    {
+        "id":3,
+        "name": "クリスティーナ",
+        "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119138104_10214075089550827_3129345896074772187_n.jpg?_nc_cat=110&_nc_sid=a83260&_nc_ohc=l1k3yjeSCv0AX8ru8NR&_nc_ht=scontent.frmq2-1.fna&oh=58c2d8dff4c0c292f9b9ce8d479dec7e&oe=5F81814C",
+        "series": "普通",
+        "age": 27,
+        "height&weight": "165cm/??kg",
+        "mixlevel": "★★★",
+        "maxlevel": "★★★★★",
+        "type": "攻撃支援型",
+        "voiceactor": "CV.たかはし智秋",
+        "arr": "物理攻撃",
+        "birth": "02/07",
+        "societies": "王宮騎士団"
+    },
+    {
+        "id":4,
+        "name": "クリス(クリスマス)",
+        "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118958365_10214075089630829_7826117515414039043_n.jpg?_nc_cat=109&_nc_sid=a83260&_nc_ohc=v__hgMC61osAX_vZqeU&_nc_ht=scontent.frmq2-2.fna&oh=e4facb095b2c2787bbe78caf1dfd13a4&oe=5F7FF782",
+        "series": "クリスマス",
+        "age": 27,
+        "height&weight": "165cm/??kg",
+        "mixlevel": "★★★",
+        "maxlevel": "★★★★★",
+        "type": "攻撃支援型",
+        "voiceactor": "CV.たかはし智秋",
+        "arr": "物理攻撃",
+        "birth": "02/07",
+        "societies": "王宮騎士団"
     }
 ]
