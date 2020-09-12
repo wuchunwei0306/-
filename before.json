@@ -564,7 +564,7 @@
         "position": "前衛",
         "name": "水着アンナ",
         "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119066408_10214075105351222_8500019897759387219_n.jpg?_nc_cat=106&_nc_sid=a83260&_nc_ohc=8k5Mag1P0kIAX-TeGC1&_nc_ht=scontent.frmq2-1.fna&oh=98b64c63533d897b59e8a78f2dfe699d&oe=5F808F42",
-        "series": "普通",
+        "series": "水着",
         "age": 17,
         "height&weight": "159cm/45kg",
         "mixlevel": "★",
@@ -692,7 +692,7 @@
         "position": "前衛",
         "name": "ミソギ(ハロウィン)",
         "img": "https://scontent.frmq2-2.fna.fbcdn.net/v/t1.0-9/cp0/118837383_10214075098951062_6041317893676712321_n.jpg?_nc_cat=104&_nc_sid=a83260&_nc_ohc=4giwzni4cR8AX821UeA&_nc_ht=scontent.frmq2-2.fna&oh=083343a5f985d2bc0e3a2049305562fc&oe=5F80E31C",
-        "series": "水着",
+        "series": "ハロウィン",
         "age": 9,
         "height&weight": "128cm/27kg",
         "mixlevel": "★",
@@ -702,5 +702,21 @@
         "arr": "物理攻撃",
         "birth": "08/10",
         "societies": "リトルリリカル"
+    },
+    {
+        "id": 45,
+        "position": "前衛",
+        "name": "リン(デレマス)",
+        "img": "https://scontent.frmq2-1.fna.fbcdn.net/v/t1.0-9/cp0/119003659_10214075104071190_7084051002444448084_n.jpg?_nc_cat=108&_nc_sid=a83260&_nc_ohc=yKN5LYGklZkAX_0DeYt&_nc_ht=scontent.frmq2-1.fna&oh=37b083284bbea82f217e14ed131491a9&oe=5F806552",
+        "series": "デレマス",
+        "age": 15,
+        "height&weight": "165cm/44kg",
+        "mixlevel": "★★★",
+        "maxlevel": "★★★★★",
+        "type": "耐久支援型",
+        "voiceactor": "CV.福原綾香",
+        "arr": "物理攻撃",
+        "birth": "08/10",
+        "societies": "ニュージェネレーション"
     }
 ]
