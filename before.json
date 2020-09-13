@@ -45,7 +45,7 @@
         "voiceactor": "CV.たかはし智秋",
         "arr": "物理攻撃",
         "birth": "02/07",
-        "societies": "王宮騎士団"
+        "societies": "王宮騎士団（NIGHTMARE）"
     },
     {
         "id": 4,
@@ -61,7 +61,7 @@
         "voiceactor": "CV.たかはし智秋",
         "arr": "物理攻撃",
         "birth": "02/07",
-        "societies": "王宮騎士団"
+        "societies": "王宮騎士団（NIGHTMARE）"
     },
     {
         "id": 5,
@@ -77,7 +77,7 @@
         "voiceactor": "CV.茅原実里",
         "arr": "物理攻撃",
         "birth": "08/11",
-        "societies": "王宮騎士団"
+        "societies": "王宮騎士団（NIGHTMARE）"
     },
     {
         "id": 6,
@@ -93,7 +93,7 @@
         "voiceactor": "CV.下田麻美",
         "arr": "物理攻撃",
         "birth": "11/25",
-        "societies": "王宮騎士団"
+        "societies": "王宮騎士団（NIGHTMARE）"
     },
     {
         "id": 7,
@@ -109,7 +109,7 @@
         "voiceactor": "CV.川澄綾子",
         "arr": "物理攻撃",
         "birth": "10/25",
-        "societies": "王宮騎士団"
+        "societies": "王宮騎士団（NIGHTMARE）"
     },
     {
         "id": 8,
@@ -125,7 +125,7 @@
         "voiceactor": "CV.川澄綾子",
         "arr": "物理攻撃",
         "birth": "10/25",
-        "societies": "王宮騎士団"
+        "societies": "王宮騎士団（NIGHTMARE）"
     },
     {
         "id": 9,
@@ -205,7 +205,7 @@
         "voiceactor": "CV.丹下桜",
         "arr": "魔法攻撃",
         "birth": "05/05",
-        "societies": "悪魔偽王国軍"
+        "societies": "悪魔偽王国軍(ディアボロス)"
     },
     {
         "id": 14,
@@ -301,7 +301,7 @@
         "voiceactor": "CV.徳井青空",
         "arr": "物理攻撃",
         "birth": "03/14",
-        "societies": "エリザベスパーク"
+        "societies": "牧場（エリザベスパーク）"
     },
     {
         "id": 20,
@@ -317,7 +317,7 @@
         "voiceactor": "CV.小松未可子",
         "arr": "物理攻撃",
         "birth": "08/09",
-        "societies": "カォン"
+        "societies": "自警団（カォン）"
     },
     {
         "id": 21,
@@ -333,7 +333,7 @@
         "voiceactor": "CV.小松未可子",
         "arr": "物理攻撃",
         "birth": "08/09",
-        "societies": "カォン"
+        "societies": "自警団（カォン）"
     },
     {
         "id": 22,
@@ -349,7 +349,7 @@
         "voiceactor": "CV.高森奈津美",
         "arr": "物理攻撃",
         "birth": "07/07",
-        "societies": "カォン"
+        "societies": "自警団（カォン）"
     },
     {
         "id": 23,
@@ -733,7 +733,7 @@
         "voiceactor": "CV.雨宮天",
         "arr": "物理攻撃",
         "birth": "01/23",
-        "societies": "悪魔偽王国軍"
+        "societies": "悪魔偽王国軍(ディアボロス)"
     },
     {
         "id": 47,
@@ -781,7 +781,7 @@
         "voiceactor": "CV.高森奈津美",
         "arr": "物理攻撃",
         "birth": "07/07",
-        "societies": "カォン"
+        "societies": "自警団（カォン）"
     },
     {
         "id": 50,
@@ -893,7 +893,7 @@
         "voiceactor": "CV.原紗友里",
         "arr": "魔法攻撃",
         "birth": "11/22",
-        "societies": "悪魔偽王国軍"
+        "societies": "悪魔偽王国軍(ディアボロス)"
     },
     {
         "id": 57,
@@ -909,7 +909,7 @@
         "voiceactor": "CV.浅倉杏美",
         "arr": "魔法攻撃",
         "birth": "11/22",
-        "societies": "悪魔偽王国軍"
+        "societies": "悪魔偽王国軍(ディアボロス)"
     },
     {
         "id": 58,
@@ -925,7 +925,7 @@
         "voiceactor": "CV.浅倉杏美",
         "arr": "魔法攻撃",
         "birth": "11/22",
-        "societies": "悪魔偽王国軍"
+        "societies": "悪魔偽王国軍(ディアボロス)"
     },
     {
         "id": 59,
@@ -941,7 +941,7 @@
         "voiceactor": "CV.丹下桜",
         "arr": "魔法攻撃",
         "birth": "05/05",
-        "societies": "悪魔偽王国軍"
+        "societies": "悪魔偽王国軍(ディアボロス)"
     },
     {
         "id": 60,
@@ -957,7 +957,7 @@
         "voiceactor": "CV.大坪由佳",
         "arr": "物理攻撃",
         "birth": "12/22",
-        "societies": "悪魔偽王国軍"
+        "societies": "悪魔偽王国軍(ディアボロス)"
     },
     {
         "id": 61,
@@ -1021,7 +1021,7 @@
         "voiceactor": "CV.小岩井ことり",
         "arr": "物理攻撃",
         "birth": "01/01",
-        "societies": "エリザベスパーク"
+        "societies": "牧場（エリザベスパーク）"
     },
     {
         "id": 65,
@@ -1037,7 +1037,7 @@
         "voiceactor": "CV.新田恵海",
         "arr": "物理攻撃",
         "birth": "03/03",
-        "societies": "エリザベスパーク"
+        "societies": "牧場（エリザベスパーク）"
     },
     {
         "id": 66,
@@ -1053,7 +1053,7 @@
         "voiceactor": "CV.新田恵海",
         "arr": "物理攻撃",
         "birth": "03/03",
-        "societies": "エリザベスパーク"
+        "societies": "牧場（エリザベスパーク）"
     },
     {
         "id": 67,
@@ -1229,7 +1229,7 @@
         "voiceactor": "CV.雨宮天",
         "arr": "物理攻撃",
         "birth": "01/23",
-        "societies": "悪魔偽王国軍"
+        "societies": "悪魔偽王国軍(ディアボロス)"
     },
     {
         "id": 78,
@@ -1245,7 +1245,7 @@
         "voiceactor": "CV.大坪由佳",
         "arr": "物理攻撃",
         "birth": "12/22",
-        "societies": "悪魔偽王国軍"
+        "societies": "悪魔偽王国軍(ディアボロス)"
     },
     {
         "id": 79,
@@ -1325,7 +1325,7 @@
         "voiceactor": "CV.小岩井ことり",
         "arr": "物理攻撃",
         "birth": "01/01",
-        "societies": "エリザベスパーク"
+        "societies": "牧場（エリザベスパーク）"
     },
     {
         "id": 84,
@@ -1533,7 +1533,7 @@
         "voiceactor": "CV.小清水亜美",
         "arr": "物理攻撃",
         "birth": "11/03",
-        "societies": "エリザベスパーク"
+        "societies": "牧場（エリザベスパーク）"
     },
     {
         "id": 97,
@@ -1549,7 +1549,7 @@
         "voiceactor": "CV.小清水亜美",
         "arr": "物理攻撃",
         "birth": "11/03",
-        "societies": "エリザベスパーク"
+        "societies": "牧場（エリザベスパーク）"
     },
     {
         "id": 98,
@@ -1565,7 +1565,7 @@
         "voiceactor": "CV.内田真礼",
         "arr": "魔法攻撃",
         "birth": "09/22",
-        "societies": "カォン"
+        "societies": "自警団（カォン）"
     },
     {
         "id": 99,
@@ -1581,7 +1581,7 @@
         "voiceactor": "CV.内田真礼",
         "arr": "魔法攻撃",
         "birth": "09/22",
-        "societies": "カォン"
+        "societies": "自警団（カォン）"
     },
     {
         "id": 100,
@@ -1597,7 +1597,7 @@
         "voiceactor": "CV.水瀬いのり",
         "arr": "魔法攻撃",
         "birth": "11/03",
-        "societies": "カォン"
+        "societies": "自警団（カォン）"
     },
     {
         "id": 101,
@@ -1613,7 +1613,7 @@
         "voiceactor": "CV.水瀬いのり",
         "arr": "魔法攻撃",
         "birth": "11/03",
-        "societies": "カォン"
+        "societies": "自警団（カォン）"
     },
     {
         "id": 102,
