@@ -1,0 +1,26 @@
+constructor() {
+        super();
+        this.state = {
+            clickCount:0
+        };
+        this.handleClick = this.handleClick.bind(this);//設置button事件
+    }
+    //
+    handleClick() {
+        this.setState(function (state) {
+            return { clickCount: state.clickCount + 1 };//每按一次就+1
+        });
+    }
+    render() {
+        
+        return (
+            <div>
+                <a href="#">
+                    <Badge count={this.state.clickCount}>//次數顯示
+                        <Avatar size={100} src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3gKwU2rxFrTLXX45dI7KJgdwV8yjCEH5_nQ&usqp=CAU"/>//頭像顯示
+                    </Badge>
+                </a>
+                <button onClick={this.handleClick}>點我</button>//按鈕設置
+            </div>
+        )
+    }
